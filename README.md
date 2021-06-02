@@ -1,2 +1,2 @@
 # Module-2 Coding Assignment
-coursera test repository
+HTML, CSS, and Javascript for Web Developers
